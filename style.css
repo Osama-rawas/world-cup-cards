@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background:  linear-gradient(#00000087,#3c3e3e);
+}
+
+.flag {
+    width: 350px;
+    height: 180px;
+}
+.card {
+    background-color: #3c3e3e;
+    height: 630px;
+    width: 350px;
+    position: static;
+    top:60px ;
+    left:40px ;
+    margin-top: 60px; 
+    margin-left: 120px;
+    margin-bottom: 100px;
+    color: rgba(255, 255, 255, 0.755);
+    font-family: 'Antic Slab', serif;
+    float: left;
+}
+
+
+.card h2 {
+    font-size: 14px;
+    padding-top: 2px;
+}
+
+.card h3 {
+    text-align: center;
+    font-size: 30px;
+  
+}
+
+.card p {
+    line-height: 28px;
+    text-align:center;
+}
+
+.btn_more {
+    width: 200px;
+    height: 30px;
+
+    margin: 30px 75px 18px ;
+    font-size:large;
+    background:  linear-gradient(#00000087,#6c6c6cf5,#ffffff3b);
+    color:white;
+}
